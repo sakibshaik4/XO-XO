@@ -1,0 +1,19 @@
+.login {
+  height: 100vh;
+  background-image: url("https://img.freepik.com/premium-vector/xoxo-brush-lettering-signs-seamless-pattern-vector-illustration_443949-984.jpg");
+}
+
+.square {
+  height: 50%;
+  width: 30%;
+}
+
+.passwordDiv {
+  position: relative;
+}
+
+.passwordToggle {
+  position: absolute;
+  top: 25%;
+  right: 4%;
+}

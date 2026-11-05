@@ -1,0 +1,36 @@
+.signup {
+  height: 100vh;
+  background-image: url("https://img.freepik.com/premium-vector/xoxo-brush-lettering-signs-seamless-pattern-vector-illustration_443949-984.jpg");
+}
+
+.square {
+  height: 70%;
+  width: 30%;
+}
+
+.passwordDiv {
+  position: relative;
+}
+
+.passwordToggle {
+  position: absolute;
+  top: 25%;
+  right: 6%;
+}
+
+.signup {
+  height: 80%;
+  width: 35%;
+}
+
+.signupMainFrom {
+  height: 50%;
+  overflow-y: scroll;
+}
+
+.signUpHeading {
+  height: 15%;
+}
+.signUpFooter {
+  height: 15%;
+}
